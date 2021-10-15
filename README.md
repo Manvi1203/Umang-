@@ -27,7 +27,7 @@ We planned to create a platform that could detect a users mood through facial re
 
 ## 🧪 Deployment
 
-#Local Setup:
+Local Setup:
 
 clone the repository using 
 ```
@@ -37,11 +37,13 @@ git clone
 
 Setup the website
 1)cd Login
+
 2)run 
 ```
 npm install
 ```
 in the cmd
+
 3)run 
 ```
 nodemon app.js
@@ -55,11 +57,11 @@ Setup the emotion based recognition system
 
 ```
 cd Emotion based music recommendation
-run "pip install Django==3.2.8"
-run "python -m venv .\venv" in the cmd
-run "venv\scripts\activate" in the cmd
-run "pip install -r requirements.txt" in the cmd
-run "python manage.py runserver" in the cmd 
+pip install Django==3.2.8
+python -m venv .\venv
+venv\scripts\activate
+pip install -r requirements.txt
+python manage.py runserver
 
 ```
   
@@ -81,12 +83,12 @@ OpenCV
 ## 👷‍♂️ Team
 
 
-```
+
 Made with 💜 by 
-@Manvi1203 - Implemented the yoga pose evaluator and frontend web dev.
-@Manan-jn - Implemented the mood based music song recommendation system and backend web dev. 
-@GKSibal - UI/UX Designer
-```
+[Manvi1203](https://github.com/Manvi1203) - Implemented the yoga pose evaluator and frontend web dev.
+[Manan-jn](https://github.com/Manan-jn) - Implemented the mood based music song recommendation system and backend web dev. 
+[GKSibal](https://github.com/GKSibal)- UI/UX Designer
+
 
 ## Author
 
@@ -94,7 +96,7 @@ Made with 💜 by
 
 - Github: [@Umang](https://github.com/Manan-jn/Umang)
 
-## Show your support <img alt="GitHub stars" src="">
+## Show your support
 
 Give a ⭐️ if this project helped/inspired you!
 
