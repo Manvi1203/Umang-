@@ -36,6 +36,7 @@ git clone
 [https://github.com/Manan-jn/Umang.git]
 
 Setup the website
+
 1)cd Login
 
 2)run 
@@ -85,8 +86,11 @@ OpenCV
 
 
 Made with 💜 by 
+
 [Manvi1203](https://github.com/Manvi1203) - Implemented the yoga pose evaluator and frontend web dev.
+
 [Manan-jn](https://github.com/Manan-jn) - Implemented the mood based music song recommendation system and backend web dev. 
+
 [GKSibal](https://github.com/GKSibal)- UI/UX Designer
 
 
